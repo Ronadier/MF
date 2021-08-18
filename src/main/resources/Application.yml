@@ -1,7 +1,0 @@
-soap:
-  url: http://localhost:8181/getMessages/MessageBeanService
-
-rest:
-  url: http://localhost:8181/message
-  connection-timeout: 3000
-  read-timeout: 30000
